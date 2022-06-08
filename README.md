@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mouafo
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in Cyber Security. 
+- 🌱 I’m currently learning cyber Security. 
 - 💞️ I’m looking to collaborate on how to program
 - 📫 How to reach me gd679419955@gmail.com
 
